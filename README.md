@@ -9,3 +9,5 @@
 * Visualize key performance indicators (KPIs) using interactive dashboards.
 
 * Provide insights that could help optimize ride allocation and driver availability.
+
+![iamge alt](https://github.com/Varsha-v0/Uber-Power-Bi-Project/blob/f122b77c8d66ca3b02b99abcb42e66c52594ba74/Screenshot%202026-03-06%20102144.png)
