@@ -1,5 +1,7 @@
 # Uber-Power-Bi-Project
 
+This project highlights the importance of data visualization in transportation analytics. By using Power BI, complex datasets can be converted into clear and interactive dashboards that help stakeholders quickly understand trends and make data-driven decisions.
+
 * Analyze Uber trip data to identify travel patterns and ride demand
 
 * Understand peak hours and busiest days
